@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+The graph displays peoples favorite numbers on a bar graph.
 
 ### Exercises 19
 
@@ -59,7 +59,7 @@ p1 + labs(x = "Insert text here",
           title = "Insert text here")
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 19 here.*
+The labs function changes the labels of the plot.
 
 ### Exercise 20
 
@@ -69,4 +69,4 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
 p2
 ```
 
-*Remove this text (including the stars) and add your answer for Exercise 20 here.*
+A pie chart would be effective at displaying the information, because there may be many small areas.
